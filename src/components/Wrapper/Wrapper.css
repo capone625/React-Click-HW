@@ -1,6 +1,7 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background-image: url("https://4.bp.blogspot.com/-qYT-jFB1p7g/WhSqybcMeRI/AAAAAAAA1Bw/AXif186oSawYY6TWWXKCRJvVCOfrPVRoACLcBGAs/s1600/Sunset-Arms-Boarding-House-Roof-Arnolds-Bed-Room-Bedroom-Hey-Arnold-The-Jungle-Movie-Background-Artwork-Art-Craig-Bartlett-Nickelodeon-Nick-NickSplat.jpg");
+  background-size: auto;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
